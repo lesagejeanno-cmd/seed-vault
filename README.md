@@ -114,7 +114,7 @@ git clone https://github.com/lesagejeanno-cmd/seed-vault.git
 open index.html
 ```
 
-Or download `index.html` from the [latest release](https://github.com/nicmusic/seed-vault/releases) and open it in your browser.
+Or download `index.html` from the [latest release](https://github.com/lesagejeanno-cmd/seed-vault/releases) and open it in your browser.
 
 ## Metal plates
 
