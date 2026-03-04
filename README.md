@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/dependencies-0-000?style=flat-square" alt="Zero deps">
   <img src="https://img.shields.io/badge/data_sent-none-000?style=flat-square" alt="No data sent">
   <img src="https://img.shields.io/badge/license-MIT-000?style=flat-square" alt="MIT">
-  ![GitHub stars](https://img.shields.io/github/stars/lesagejeanno-cmd/seed-vault.io?style=flat-square&color=000)
+  <img src=https://img.shields.io/github/stars/lesagejeanno-cmd/seed-vault.io?style=flat-square&color=000>
   
 </p>
 
