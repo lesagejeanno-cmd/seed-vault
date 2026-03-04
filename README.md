@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/metal-plate.jpg" alt="SeedVault encrypted QR code engraved on stainless steel" width="360">
+  <img src="assets/metal.gif" alt="SeedVault encrypted QR code engraved on stainless steel" width="360">
 </p>
 
 <h1 align="center">Seed-Vault.io</h1>
